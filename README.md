@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leeruska
-- I’m interested in handcrafts, e-textiles, animals & nature, human behaviour & mind.
+- I’m interested in handcrafts, e-textiles and human behaviour.
 - I’m currently learning the basics on HTML, CSS & Python. Also learning to use GitHub and VSCode. 
 - 📫 How to reach me: sokru/Discord. 
 
